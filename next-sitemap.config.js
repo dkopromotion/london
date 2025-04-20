@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: 'https://www.onlyfans-london.com',
+  siteUrl: 'https://www.london-onlyfans.com',
   generateRobotsTxt: true,
   changefreq: 'daily',
   priority: 0.7,
