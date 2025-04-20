@@ -226,7 +226,7 @@ export function InstagramProfilesGrid({ profiles = [], settings = {} }) {
           )}&w=800&q=80`;
           return (
             <li key={p._id?.$oid || i} className="relative">
-              <a href={p.link} target="_blank" rel="noopener noreferrer">
+              <a href={p.link} rel="noopener noreferrer">
                 <ProgressiveImage
                   thumbnailSrc={thumbnailUrl}
                   mainSrc={mainImageUrl}
