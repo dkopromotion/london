@@ -1,0 +1,13 @@
+# *
+User-agent: *
+Allow: /
+
+# Block Internet Archive
+User-agent: ia_archiver
+Disallow: /
+
+# Host
+Host: https://www.hawaii-onlyfans.com
+
+# Sitemaps
+Sitemap: https://www.hawaii-onlyfans.com/sitemap.xml
