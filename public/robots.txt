@@ -7,7 +7,7 @@ User-agent: ia_archiver
 Disallow: /
 
 # Host
-Host: https://www.hawaii-onlyfans.com
+Host: https://www.london-onlyfans.com
 
 # Sitemaps
-Sitemap: https://www.hawaii-onlyfans.com/sitemap.xml
+Sitemap: https://www.london-onlyfans.com/sitemap.xml
