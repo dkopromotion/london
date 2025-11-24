@@ -17,11 +17,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <link rel="icon" href="/logo.svg" type="image/svg+xml" />
-        <script 
-          src="https://app.ctabuild.com/analytics.js" 
-          data-api-key="dc4c83215d569fda1d6b545cc09ef027"
-          defer
-        ></script>
+<script src="https://www.affiliatetrack.app/js/script.js" defer data-website-id="0Whgt_76eW_pA5YlDplG6" data-domain="www.london-onlyfans.com"></script>
       </head>
       <body className="bg-zinc-100">
         <Navbar />
